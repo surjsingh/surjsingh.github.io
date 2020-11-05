@@ -4,5 +4,9 @@ baseURL = "https://surjsingh.github.io"
 languageCode = "en-gb"
 disqusShortname = "sursingh"
 
+[author]
+  name = "Surjeet Singh"
+  homepage = "https://surjsingh.github.io/"
+
 [params]
 background_color_class = "bg-dark-blue"
