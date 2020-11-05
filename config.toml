@@ -1,6 +1,0 @@
-theme = "ananke"
-title = "Cloud & Devops"
-baseURL = "https://surjsingh.github.io"
-languageCode = "en-gb"
-disqusShortname = "sursingh"
-background_color_class = "bg-blue"
