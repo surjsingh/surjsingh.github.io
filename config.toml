@@ -2,7 +2,7 @@ theme = "ananke"
 title = "Cloud & Devops"
 baseURL = "https://surjsingh.github.io"
 languageCode = "en-gb"
-disqusShortname = "disqus_surjsingh"
+disqusShortname = "https-surjsingh-github-io"
 
 [author]
   name = "Surjeet Singh"
