@@ -1,5 +1,5 @@
 theme = "ananke"
-title = "Cloud & Devops"
+title = "surjsingh.github.io"
 baseURL = "https://surjsingh.github.io"
 languageCode = "en-gb"
 disqusShortname = "https-surjsingh-github-io"
@@ -8,5 +8,13 @@ disqusShortname = "https-surjsingh-github-io"
   name = "Surjeet Singh"
   homepage = "https://surjsingh.github.io/"
 
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
 [params]
-background_color_class = "bg-dark-blue"
+show_reading_time = true
+background_color_class = "bg-black"
+recent_posts_number = 2
+
