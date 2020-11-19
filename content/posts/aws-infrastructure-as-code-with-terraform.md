@@ -1,5 +1,5 @@
 ---
-title: "AWS Infrastructure-as-code with terraform"
+title: "Provisioning AWS Infrastructure with terraform"
 date: 2018-09-07T14:06:23Z
 draft: false
 tags: [DevOps,Cloud,AWS,Terraform,Infrastructure as Code]
@@ -10,9 +10,11 @@ omit_header_text: false
 
 ---
 
-#### A walthrough on creating a public and private network infrastructure(as code) on AWS cloud with IAC tool called terraform.
+#### A walthrough on understanding and creating a public and private network infrastructure(as code) on AWS cloud with IAC tool called terraform.
 
 [Please refer this link for detailed blogpost.](https://medium.com/@surjeet112/aws-infrastructure-as-code-iac-with-terraform-26e6b65af63b)
+
+Plese refer the github repo for more details on Jenkins pipeline and integrating AWSPEC tests.
 
 [GitHub](https://github.com/surjsingh/terraform-aws-vpc)
 
