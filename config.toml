@@ -2,6 +2,7 @@ theme = "ananke"
 title = "surjsingh.github.io"
 baseURL = "https://surjsingh.github.io"
 languageCode = "en-gb"
+SectionPagesMenu = "main"
 disqusShortname = "https-surjsingh-github-io"
 
 [author]
