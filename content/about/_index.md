@@ -4,7 +4,7 @@ description: "Technologist"
 featured_image: '/images/about.jpg'
 ---
 
-I am a Devops and Cloud geek, who is passionate about the emerging technologies in cloud and its vicinity. I help my clients adopt DevOps approaches, break out of rigid, traditional ways of working and move to a more customer-focused and agile approach
+I am a Devops and Cloud enthusiast, who is passionate about the emerging technologies in cloud and its vicinity. I help my clients adopt DevOps approaches, break out of rigid, traditional ways of working and move to a more customer-focused and agile approach
 
 #### I highly practice and believe in:
  Automate Everything You Can   
