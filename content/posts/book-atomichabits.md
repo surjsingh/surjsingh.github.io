@@ -24,7 +24,7 @@ Small changes appeared to make no difference untill you crossed a critical thres
 
 Atomic habits are part of the large system and are like the building blocks.
 
-And if you want better results, stop focussing on your goals rather start focussing on your system or process. Getting better in small things you do will eventually help to accomplish your goals.
+And if you want better results, stop focussing on your goals rather start focussing on your system or process. Getting better in small things will eventually help you to accomplish your goals.
 
 #### 2: How your habits shape your identity(vice versa)
 
@@ -43,20 +43,18 @@ The real reason why habits matter is so that you can change your beliefs and con
 Habit is a behaviour that's repeated enough times to be automatic.
  
 feedback loop:
-
-Cue: initiates a behaviour or trigger a craving 
-Craving: motivates the response
-Response: provides the reward
-Reward: satisfies the craving
+- Cue: initiates a behaviour or trigger a craving
+- Craving: motivates the response
+- Response: provides the reward
+- Reward: satisfies the craving
 
 This is endless habit loop and failure to satisfy any step will not result in habit
 
-Key to How to follow above for habits and do the opposite for getting rid of bad ones
-
-Cue: how to make it obvious | invisible
-Craving: how to make it attractive | unattractive
-Response: how to make it easy |difficult
-Reward: how to make it satisfying | unsatisfying
+The Key to how to follow above for habits and do the opposite for getting rid of bad ones are:
+- Cue: how to make it | obvious | invisible
+- Craving: how to make it | attractive | unattractive
+- Response: how to make it | easy |difficult
+- Reward: how to make it | satisfying | unsatisfying
 
 ### MAKE IT OBVIOUS
 
@@ -78,7 +76,7 @@ After I complete (current habit/behaviour), I will do (new habbit).
 
 #### 6: Motivation is overrated; environment often matters most
 
-Make the cue obvious in your env and relate a cue to context. Habits can be associate with a context
+Make the cue obvious in your env and relate a cue to context. Habits can be associated with a context
 
 #### 7: The secret to self control
 
@@ -102,7 +100,7 @@ Pair an action you want to do with the pair of action you need to do. Try doing 
 
 Try to be in the group where normal behaviour is your desired behavior. 
 
-We tend to imitate the habits of 3 social groups: closed ones(family/friends), many and successful/powerful ones.
+We tend to imitate the habits of 3 social groups: closed ones(family/friends), many(herds) and successful/powerful ones.
 
 #### 10: How to get rid of bad habits
 
@@ -113,7 +111,7 @@ Make bad habits unattractive and highlight the benefits of avoiding them.
 #### 11: Walk slowly but never backwards
 
 Most effective way to practice habit is to make it easy.
-Most effective form of learning is practically not planning.
+Most effective form of learning is practically doing rather than planning.
 
 Focus on taking actions not being emotional.
 
@@ -129,7 +127,7 @@ Reduce the friction associated with good behaviours, when frictions is low habit
 
 #### 13: Stop procrastinating with 2 min rule
 
-Employ the 2 minute rule to start something or initiate a habit behaviour whenever you are struggling with new habits. Those 2 minutes of trickibg will help you to continue further steps to achieve a habit.
+Employ the 2 minute rule to start something or initiate a habit behaviour whenever you are struggling with new habits. Those 2 minutes of tricking will help you to continue further steps to achieve a habit.
 The more you ritualise the starting process the more you can fell deep to practice the behaviour.
 Standardise before you optimize. 
 Master the decisive time.
@@ -147,7 +145,7 @@ What is immediately rewarded is repeated.
 
 #### 16: How to stick with good habits everyday:
 
-Track your progress with a habit track as progress is the biggest motivation to adopt any new habits.
+Track your progress with a habit tracker as progress is the biggest motivation to adopt any new habits.
 Do not miss the habits more than once and fallback to habit asap.
 
 #### 17: How accountability partner can change everything.
@@ -172,7 +170,7 @@ The greatest threat to success is not failure but boredom. We get bored if the r
 The upside of habits is that we can do things without thinking. The downside is that we stop paying attention to little details. The lack of awareness is poison.
 Habits plus deliberate practice equals mastery 
 
-Reflection and review is a process that allows us to remain consious of our performance over time.
+Reflection and review is a process that allows us to remain conscious of our performance over time.
 
 ### CONCLUSION
 
