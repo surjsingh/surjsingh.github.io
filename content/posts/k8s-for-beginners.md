@@ -5,7 +5,7 @@ draft: false
 tags: [DevOps,Kubernetes,K8s,containers]
 description: ""
 #type: page
-featured_image: 'images/image1.jpg'
+featured_image: 'images/k8s.png'
 omit_header_text: false
 
 ---

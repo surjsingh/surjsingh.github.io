@@ -5,7 +5,7 @@ draft: false
 tags: [DevOps,Cloud,AWS,Terraform,Infrastructure as Code]
 description: "A walthrough and guide on cretating a public and private network infrastructure as code on AWS cloud with tool called terraform"
 #type: page
-featured_image: 'images/image1.jpg'
+featured_image: 'images/tf-aws-infra.png'
 omit_header_text: false
 
 ---

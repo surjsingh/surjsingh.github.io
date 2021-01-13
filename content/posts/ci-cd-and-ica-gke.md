@@ -5,7 +5,7 @@ draft: false
 tags: [DevOps,Cloud,GCP,Terraform,Jenkins,CI/CD,GKE,Infrastructure as Code]
 description: ""
 #type: page
-featured_image: 'images/image1.jpg'
+featured_image: 'images/jenkins-tf-gke.png'
 #omit_header_text: true
 ---
 

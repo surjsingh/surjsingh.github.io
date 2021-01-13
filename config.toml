@@ -17,5 +17,5 @@ disqusShortname = "https-surjsingh-github-io"
 [params]
 show_reading_time = true
 background_color_class = "bg-black"
-recent_posts_number = 4
+recent_posts_number = 7
 

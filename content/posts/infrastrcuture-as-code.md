@@ -5,7 +5,7 @@ draft: false
 tags: [DevOps,Cloud,Infrastructure as Code]
 description: ""
 #type: page
-featured_image: 'images/image1.jpg'
+featured_image: 'images/iac.png'
 omit_header_text: false
 
 ---
