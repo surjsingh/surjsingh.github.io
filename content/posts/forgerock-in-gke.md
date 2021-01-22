@@ -1,7 +1,7 @@
 ---
 title: "Deploying Forgerock Identity and Access management to Google cloud GKE "
 date: 2021-01-15T14:06:23Z
-draft: false
+draft: true
 tags: [DevOps,Kubernetes,K8s,containers,GKE,GCP,Forgerock,IDM,Access management,Identity]
 description: ""
 #type: page
