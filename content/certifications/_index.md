@@ -8,5 +8,5 @@ https://www.youracclaim.com/users/surjeet.singh
 
 https://www.credential.net/profile/surjeetsingh568/wallet#gs.qt3jbt
 
-![CERTS](/images/Certs.png)
+![CERTS](/images/certs.png)
 
