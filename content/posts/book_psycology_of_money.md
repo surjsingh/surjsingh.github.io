@@ -21,8 +21,8 @@ Soft skills are more important than the technical skills. Behaviours matters.
 
 
 #### 1. No one's crazy
-	
-	The way ppl save and invest money varies alot with their behaviours around their generation like where they were born and brought up or the economies they were brought up in. Also the behaviours of their parents with respect to money and investing. Also around what was booming in the industry i.e stocks or inflation, when they were trying to invest while young Adult along with some luck.
+
+  The way ppl save and invest money varies alot with their behaviours around their generation like where they were born and brought up or the economies they were brought up in. Also the behaviours of their parents with respect to money and investing. Also around what was booming in the industry i.e stocks or inflation, when they were trying to invest while young Adult along with some luck.
 	
 #### 2. Luck and Risk
 
@@ -90,11 +90,11 @@ Soft skills are more important than the technical skills. Behaviours matters.
 
   You need to play your own game depending on your time horizon. Do not invest in something by looking at others time frames. Try to find your purpose and reason and play accordingly.
 
-#### 17: seduction of pessimism:
+#### 17: Seduction of pessimism:
 
   Exoecting bad outcomes always reduces the expectation between the actual and desires outcomes. Even it brings sense of surprise if it didn't happen and is sort of optimism. Optimism comes from the history of events and when you have understanding about what's happening and how can it change the world.
 
-#### 18: when you'll believe anything:
+#### 18: When you'll believe anything:
 
 #### 19: All together now
 
