@@ -2,7 +2,7 @@
 title: "Psychology of Money"
 date: 2021-02-05
 draft: true
-tags: [Habits]
+tags: [Investing, Saving, Trading, Money, Greed]
 description: ""
 #type: page
 featured_image: ''
